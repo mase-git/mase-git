@@ -11,5 +11,5 @@
 <h3 align="center">Commits... or snake?</h3>
 <samp>Snake animation has automatic update with a time window of 12 hours using the Github action workflow setup.</samp>
 
-<img src="snake.svg" alt="Snake Animation" />
+<img src="https://github.com/mase-git/mase-git/blob/assets/snake.svg" alt="Snake Animation" />
 
