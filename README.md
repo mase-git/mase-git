@@ -8,7 +8,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mase-git" />
 </div>
 
-<h3 align="center">Commits... or snake?</h3>
+<h3 align="center">Contributions... or snake?</h3>
 <samp>Snake animation has automatic update with a time window of 12 hours using the Github action workflow setup.</samp>
 
 <img src="https://github.com/mase-git/mase-git/blob/assets/snake.svg" alt="Snake Animation" />
