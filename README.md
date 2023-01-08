@@ -1,4 +1,4 @@
-<h2 align="center">Hello there 👋</h2>
+<h2 align="center">Hello there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 <samp>My name is Mario Sessa. I am a Software Engineer with a degree in Computer Science from [Alma Mater Studiorum](https://www.unibo.it). I am constantly learning and staying up-to-date with the latest technologies and best practices in the field. In my professional experience, I have developed strong problem-solving skills and a passion for building elegant and efficient solutions. I am a team player and thrive in collaborative environments, but also have the ability to work independently and take ownership of projects. I am excited to continue growing as a software engineer and make meaningful contributions to impactful projects.</samp>
 
 ##
